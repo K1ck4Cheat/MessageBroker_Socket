@@ -1,0 +1,22 @@
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\bin\Debug\net5.0\Common.deps.json
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\bin\Debug\net5.0\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\bin\Debug\net5.0\ref\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\bin\Debug\net5.0\Common.pdb
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\obj\Debug\net5.0\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\obj\Debug\net5.0\ref\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Dmitrii\Desktop\Broker\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Dmitrii\Desktop\Broker\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Dmitrii\Desktop\Broker\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Dmitrii\Desktop\Broker\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Dmitrii\Desktop\Broker\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii\Desktop\Broker\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Dmitrii\Desktop\Broker\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Dmitrii\Desktop\Broker\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\Desktop\Broker\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Dmitrii\Desktop\Broker\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Dmitrii\Desktop\Broker\Common\obj\Debug\net5.0\Common.pdb

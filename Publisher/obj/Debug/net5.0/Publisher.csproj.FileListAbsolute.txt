@@ -1,0 +1,40 @@
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.csproj.AssemblyReference.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.AssemblyInfoInputs.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.AssemblyInfo.cs
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.csproj.CoreCompileInputs.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Publisher.exe
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Publisher.deps.json
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Publisher.runtimeconfig.json
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Publisher.runtimeconfig.dev.json
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Publisher.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\ref\Publisher.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Publisher.pdb
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\bin\Debug\net5.0\Common.pdb
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.csproj.CopyComplete
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\ref\Publisher.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.pdb
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Publisher\obj\Debug\net5.0\Publisher.genruntimeconfig.cache
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.csproj.AssemblyReference.cache
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.AssemblyInfoInputs.cache
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.AssemblyInfo.cs
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.dll
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\ref\Publisher.dll
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.pdb
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Publisher.exe
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Publisher.deps.json
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Publisher.runtimeconfig.json
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Publisher.runtimeconfig.dev.json
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Publisher.dll
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\ref\Publisher.dll
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Publisher.pdb
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Common.dll
+C:\Users\Dmitrii\Desktop\Broker\Publisher\bin\Debug\net5.0\Common.pdb
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.genruntimeconfig.cache
+C:\Users\Dmitrii\Desktop\Broker\Publisher\obj\Debug\net5.0\Publisher.csproj.CopyComplete

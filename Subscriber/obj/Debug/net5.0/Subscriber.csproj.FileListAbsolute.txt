@@ -1,0 +1,25 @@
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Subscriber\obj\Debug\net5.0\Subscriber.csproj.AssemblyReference.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Subscriber\obj\Debug\net5.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Subscriber\obj\Debug\net5.0\Subscriber.AssemblyInfoInputs.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Subscriber\obj\Debug\net5.0\Subscriber.AssemblyInfo.cs
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Broker\Subscriber\obj\Debug\net5.0\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.csproj.AssemblyReference.cache
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.AssemblyInfoInputs.cache
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.AssemblyInfo.cs
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Subscriber.exe
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Subscriber.deps.json
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Subscriber.runtimeconfig.json
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Subscriber.runtimeconfig.dev.json
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Subscriber.dll
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\ref\Subscriber.dll
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Subscriber.pdb
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Common.dll
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\bin\Debug\net5.0\Common.pdb
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.dll
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\ref\Subscriber.dll
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.pdb
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.genruntimeconfig.cache
+C:\Users\Dmitrii\Desktop\Broker\Subscriber\obj\Debug\net5.0\Subscriber.csproj.CopyComplete
